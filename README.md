@@ -1,6 +1,7 @@
-# Worker VLESS: Solusi Koneksi Aman dan Anonim dengan Cloudflare Workers
+# WORKERS CLOUDFLARE V1
 
-**WORKERS CLOUDFLARE V1**
+**Worker VLESS: Solusi Koneksi Aman dan Anonim dengan Cloudflare Workers**
+
 Worker VLESS adalah implementasi dari protokol VLESS (V2Ray Less) yang dirancang untuk menyediakan koneksi jaringan yang aman, anonim, dan efisien. Sebagai varian yang lebih ringan dan lebih aman dari protokol-protokol V2Ray lainnya, VLESS menawarkan solusi yang sangat efisien dalam pengelolaan lalu lintas data tanpa mengorbankan aspek keamanan.
 
 Dengan memanfaatkan Cloudflare Workers, Worker VLESS memungkinkan penerapan teknologi proxy yang sangat scalable dan bebas dari ketergantungan pada infrastruktur server pusat. Anda dapat mengoptimalkan pengalaman pengguna dengan mengurangi latensi, meningkatkan kecepatan koneksi, dan memaksimalkan privasi serta keamanan data.
