@@ -19,6 +19,12 @@ var listProxy = [
   { path: "/sg2-xxx", proxy: "138.2.84.189:443" },
   { path: "/sg2-xxxx", proxy: "190.92.213.24:443" },
   { path: "/sg2-xxxxx", proxy: "195.114.193.161:443" },
+  { path: "/newsg-x", proxy: "34.143.192.60:443" },
+  { path: "/newsg-xx", proxy: "8.219.1.169:443" },
+  { path: "/newsg-xxx", proxy: "160.22.79.174:443" },
+  { path: "/newsg-xxxx", proxy: "185.126.80.14:443" },
+  { path: "/newsg-xxxxx", proxy: "27.0.234.74:2911" },
+  { path: "/newsg-xxxxxx", proxy: "206.206.76.208:8443" },
   //tambahin sendiri
 ];
 var proxyIP;
