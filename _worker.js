@@ -1,17 +1,6 @@
 // worker.js
 import { connect } from "cloudflare:sockets";
 var listProxy = [
-  { path: "/id-xxxxx", proxy: "103.133.223.52:2096" },
-  { path: "/id-xxxx", proxy: "103.6.207.108:8080" },
-  { path: "/id-xxxx", proxy: "103.168.146.169:20132" },
-  { path: "/id-xxx", proxy: "172.232.239.151:587" },
-  { path: "/id-xx", proxy: "111.95.40.14:32414" },
-  { path: "/id-x", proxy: "103.186.1.209:2053" },
-  { path: "/sg-x", proxy: "139.162.48.174:10000" },
-  { path: "/sg-xx", proxy: "64.49.14.41:2053" },
-  { path: "/sg-xxx", proxy: "188.166.241.181:8443" },
-  { path: "/sg-xxxx", proxy: "163.47.9.27:2053" },
-  { path: "/sg-xxxxx", proxy: "45.77.36.40" },
   { path: "/sg-2x", proxy: "185.114.78.230" },
   { path: "/sg2-xx", proxy: "43.156.125.250" },
   { path: "/sg2-xxx", proxy: "194.9.62.132:34646" },
