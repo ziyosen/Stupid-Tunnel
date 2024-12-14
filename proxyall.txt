@@ -1,3 +1,8 @@
+103.133.223.51,2096,ID,Cloud Teknologi Nusantara
+103.133.223.52,2096,ID,Cloud Teknologi Nusantara
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+172.232.239.151,587,ID,Akamai Connected Cloud
+43.218.77.16,443,ID,Amazon.com, Inc
 192.236.249.111,443,US,Hostwinds LLC
 159.100.199.200,443,US,Aryaka Networks
 88.218.93.100,443,US,Stark Industries Solutions
