@@ -1,3 +1,13 @@
+83.147.253.107,443,SG,Bunny Communications
+83.147.254.106,443,SG,Bunny Communications
+83.147.254.11,443,SG,Bunny Communications
+83.147.254.66,443,SG,Bunny Communications
+83.147.252.97,443,SG,Bunny Communications
+166.108.233.26,443,SG,HUAWEI INTERNATIONAL PTE. LTD.
+103.136.68.214,443,SG,Baxet Group Inc.
+165.154.29.90,443,SG,UCLOUD TECHNOLOGY HK LIMITED
+210.16.65.149,443,SG,Shock Hosting LLC
+43.133.145.156,53136,SG,Shenzhen Tencent Computer
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
