@@ -3,11 +3,22 @@
 83.147.254.11,443,SG,Bunny Communications
 83.147.254.66,443,SG,Bunny Communications
 83.147.252.97,443,SG,Bunny Communications
+175.41.148.129,443,SG,Amazoncom
+52.74.101.26,443,SG,Amazoncom
+46.137.197.224,14883,SG,Amazoncom
 166.108.233.26,443,SG,HUAWEI INTERNATIONAL PTE. LTD.
 103.136.68.214,443,SG,Baxet Group Inc.
 165.154.29.90,443,SG,UCLOUD TECHNOLOGY HK LIMITED
 210.16.65.149,443,SG,Shock Hosting LLC
 43.133.145.156,53136,SG,Shenzhen Tencent Computer
+94.237.75.31,62174,SG,Upcloud LTD
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+43.245.198.240,587,SG,Techavenue International LTD
+103.180.161.123,587,SG,Hong Kong Megalayer
+38.181.70.7,16240,SG,Eons Data Communications Limited
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE
+119.81.201.154,9089,SG,Softlayer Technologies Inc
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
