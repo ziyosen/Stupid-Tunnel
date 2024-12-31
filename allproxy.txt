@@ -19,6 +19,11 @@
 38.181.70.7,16240,SG,Eons Data Communications Limited
 194.127.193.240,50791,SG,LEASEWEB SINGAPORE
 119.81.201.154,9089,SG,Softlayer Technologies Inc
+103.133.223.51,2096,ID,Cloud Teknologi Nusantara
+103.133.223.52,2096,ID,Cloud Teknologi Nusantara
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+172.232.239.151,587,ID,Akamai Connected Cloud
+43.218.77.16,443,ID,Amazon.com, Inc
 163.5.187.138,443,FR,Hostkey
 94.241.174.207,443,IR,TimeWeb
 212.192.9.134,443,NL,Baykov Ilya Sergeevich
