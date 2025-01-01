@@ -15,7 +15,7 @@
 83.147.252.28,8443,SG,Aeza International
 146.190.111.165,443,SG,Digitalocean
 143.198.213.197,443,SG,Digitalocean
-152.42.172.170:,8443,SG,Digitalocean
+152.42.172.170,8443,SG,Digitalocean
 167.99.73.22,443,SG,Digitalocean
 158.178.238.239,443,SG,Oracle Cloud
 168.138.162.187,443,SG,Oracle Cloud
