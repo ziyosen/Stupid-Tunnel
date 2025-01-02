@@ -2,7 +2,6 @@
 47.236.106.19,443,SG,Amazoncom
 47.245.123.30,443,SG,Amazoncom
 8.222.244.66,443,SG,Amazoncom
-178.128.80.43,443,SG,Digitalocean
 83.147.253.107,443,SG,Aeza International
 83.147.254.106,443,SG,Aeza International
 83.147.254.11,443,SG,Aeza International
@@ -18,6 +17,7 @@
 83.147.252.76,443,SG,Aeza International
 83.147.254.36,443,SG,Aeza International
 83.147.252.28,8443,SG,Aeza International
+178.128.80.43,443,SG,Digitalocean
 146.190.111.165,443,SG,Digitalocean
 143.198.213.197,443,SG,Digitalocean
 152.42.172.170,8443,SG,Digitalocean
