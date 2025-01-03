@@ -1,7 +1,4 @@
-13.229.227.164,443,SG,Amazoncom
 47.236.106.19,443,SG,Amazoncom
-47.245.123.30,443,SG,Amazoncom
-8.222.244.66,443,SG,Amazoncom
 83.147.253.107,443,SG,Aeza International
 83.147.254.106,443,SG,Aeza International
 83.147.254.11,443,SG,Aeza International
