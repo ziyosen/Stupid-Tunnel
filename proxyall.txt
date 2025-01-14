@@ -1,4 +1,5 @@
 47.236.106.19,443,SG,Alibaba
+138.2.74.219,28616,SG,Cloudflare Warp
 83.147.253.107,443,SG,Aeza International
 83.147.254.106,443,SG,Aeza International
 83.147.254.11,443,SG,Aeza International
