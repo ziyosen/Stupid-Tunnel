@@ -1,5 +1,5 @@
 45.76.191.69,443,SG,Cloud Innovation Ltd
-45.77.36.40,443,SGCloud Innovation Ltd
+45.77.36.40,443,SG,Cloud Innovation Ltd
 38.180.74.212,443,SG,3NT SOLUTIONS LLP
 47.236.60.3,443,SG,Alibaba
 47.236.106.19,443,SG,Amazoncom
