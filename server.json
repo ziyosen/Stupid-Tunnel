@@ -1,0 +1,35 @@
+const ispOptions = {
+    'Indonesia': ['Rumahweb', 'Google Cloud', 'Amazon'],
+    'Singapore': [
+        'Alibaba', 'Digitalocean', 'Oracle', 'M1 Limited', 'Akile', 'OVH', 'Cloudflare Warp', 'Vultr', 
+        'Godaddy', 'Amazon', 'Melbi', 'Leaseweb', 'CDS Global Cloud', 'Akamai', 'Regxa Cloud', 
+        'Cloud Innovation Ltd', '3NT SOLUTIONS LLP'
+    ]
+};
+
+const ipPortMapping = {
+    'Indonesia': {
+        'Rumahweb': '203.194.112.119-2053',
+        'Amazon': '43.218.77.16-443',
+        'Google Cloud': '35.219.50.99-443'
+    },
+    'Singapore': {
+        'Alibaba': '47.236.60.3-443',
+        'Digitalocean': '167.99.73.22-443',
+        'Oracle': '138.2.89.238-43254',
+        'M1 Limited': '138.75.209.209-80',
+        'Akile': '185.126.80.195-443',
+        'OVH': '51.79.158.126-443',
+        'Cloudflare Warp': '138.2.74.219-28616',
+        'Vultr': '139.180.215.77-57878',
+        'Godaddy': '97.74.82.87-45837',
+        'Amazon': '18.141.114.130-50450',
+        'Melbi': '91.192.81.154-8443',
+        'Leaseweb': '167.253.158.63-2053',
+        'CDS Global Cloud': '164.52.2.100-443',
+        'Akamai': '103.3.63.253-46683',
+        'Regxa Cloud': '206.206.76.208-8443',
+        'Cloud Innovation Ltd': '45.76.191.69-443',
+        '3NT SOLUTIONS LLP': '38.180.74.212-443'
+    }
+};
