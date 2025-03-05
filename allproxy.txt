@@ -1,8 +1,11 @@
+172.235.251.7,587,ID,Akamai Connected Cloud
+172.235.251.223,587,ID,Akamai Connected Cloud
+172.232.237.112,2053,ID,Akamai Connected Cloud
+36.95.152.58,12137,ID,PT Telkom Indonesia
 45.76.191.69,443,SG,Cloud Innovation Ltd
 38.180.74.212,443,SG,3NT SOLUTIONS LLP
 47.236.60.3,443,SG,Alibaba
 47.236.106.19,443,SG,Alibaba
-83.147.253.107,443,SG,Aeza International
 83.147.254.106,443,SG,Aeza International
 83.147.254.11,443,SG,Aeza International
 83.147.254.66,443,SG,Aeza International
@@ -16,28 +19,15 @@
 83.147.254.21,443,SG,Aeza International
 83.147.252.76,443,SG,Aeza International
 83.147.254.36,443,SG,Aeza International
-83.147.252.28,8443,SG,Aeza International
-143.198.213.197,443,SG,Digitalocean
-152.42.172.170,8443,SG,Digitalocean
 167.99.73.22,443,SG,Digitalocean
-168.138.162.187,443,SG,Oracle Cloud
-172.236.140.220,443,SG,Akamai Connected Cloud
 45.32.100.207,443,SG,Vultr
 175.156.92.1,8443,SG,M1 LIMITED
-138.75.209.209,80,SG,M1 LIMITED
 185.126.80.195,443,SG,Akile
 188.253.125.226,443,SG,Akari Networks
 217.15.162.131,8000,SG,Contabo Asia Private Limited
-175.41.148.129,443,SG,Amazoncom
 52.74.101.26,443,SG,Amazoncom
-46.137.197.224,14883,SG,Amazoncom
-166.108.233.26,443,SG,HUAWEI INTERNATIONAL PTE. LTD.
-103.136.68.214,443,SG,Baxet Group Inc.
 165.154.29.90,443,SG,UCLOUD TECHNOLOGY HK LIMITED
 210.16.65.149,443,SG,Shock Hosting LLC
-94.237.75.31,62174,SG,Upcloud LTD
-103.133.223.51,2096,ID,Cloud Teknologi Nusantara
-103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 43.218.77.16,443,ID,Amazon.com, Inc
 45.89.230.50,31599,AE,LLC Baxet
@@ -4361,13 +4351,8 @@
 5.182.38.183,443,HU,Stark Industries Solutions
 77.91.72.82,443,HU,Stark Industries Solutions
 43.133.145.156,53136,ID,Tencent cloud computing
-172.232.239.249,587,ID,Akamai Connected Cloud
 43.218.77.16,1443,ID,Amazon.com
-172.232.239.151,587,ID,Akamai Connected Cloud
-172.232.239.147,587,ID,Akamai Connected Cloud
 35.219.50.99,443,ID,Google Cloud
-172.232.231.24,587,ID,Akamai Connected Cloud
-103.168.146.169,20132,ID,Herza.ID
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
 34.253.234.62,443,IE,Amazon.com
@@ -8841,13 +8826,7 @@
 138.2.89.238,43254,SG,Oracle Cloud
 213.35.108.135,12596,SG,Oracle Cloud
 168.138.166.213,10500,SG,Oracle Cloud
-168.138.183.48,9090,SG,Oracle Cloud
-178.128.80.43,443,SG,Digital Ocean
-103.180.161.123,587,SG,HONG KONG Megalayer Technology Co.
-47.245.95.160,1443,SG,Alibaba
-47.236.173.166,587,SG,Alibaba
 167.71.194.185,8443,SG,Digital Ocean
-194.127.193.240,50791,SG,Leaseweb Asia
 138.2.74.219,28616,SG,Cloudflare Warp
 47.236.22.194,52324,SG,Alibaba
 8.222.243.73,26385,SG,Alibaba
@@ -8884,9 +8863,7 @@
 62.72.46.14,8443,SG,Contabo Asia Private
 8.222.212.110,1103,SG,Alibaba
 45.129.228.31,8443,SG,WebHorizon Singapore
-43.245.198.240,587,SG,IPTELECOM Global
 51.79.158.58,8443,SG,OVH Hosting
-8.219.58.164,57373,SG,Alibaba
 206.206.76.208,8443,SG,Regxa Cloud
 168.138.181.188,61731,SG,Oracle Cloud
 158.178.243.152,61731,SG,Oracle Cloud
