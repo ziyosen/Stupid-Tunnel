@@ -2,7 +2,6 @@
 172.235.251.223,587,ID,Akamai Connected Cloud
 172.232.237.112,2053,ID,Akamai Connected Cloud
 36.95.152.58,12137,ID,PT Telkom Indonesia
-45.76.191.69,443,SG,Cloud Innovation Ltd
 38.180.74.212,443,SG,3NT SOLUTIONS LLP
 47.236.60.3,443,SG,Alibaba
 47.236.106.19,443,SG,Alibaba
@@ -20,11 +19,9 @@
 83.147.252.76,443,SG,Aeza International
 83.147.254.36,443,SG,Aeza International
 167.99.73.22,443,SG,Digitalocean
-45.32.100.207,443,SG,Vultr
-175.156.92.1,8443,SG,M1 LIMITED
+138.75.209.209:80,SG,M1 LIMITED
 185.126.80.195,443,SG,Akile
-188.253.125.226,443,SG,Akari Networks
-217.15.162.131,8000,SG,Contabo Asia Private Limited
+45.76.191.69,443,SG,Cloud Innovation Ltd
 52.74.101.26,443,SG,Amazoncom
 165.154.29.90,443,SG,UCLOUD TECHNOLOGY HK LIMITED
 210.16.65.149,443,SG,Shock Hosting LLC
@@ -4350,7 +4347,6 @@
 95.164.23.71,443,HU,Stark Industries Solutions
 5.182.38.183,443,HU,Stark Industries Solutions
 77.91.72.82,443,HU,Stark Industries Solutions
-43.133.145.156,53136,ID,Tencent cloud computing
 43.218.77.16,1443,ID,Amazon.com
 35.219.50.99,443,ID,Google Cloud
 40.113.60.248,2053,IE,Microsoft Azure
@@ -8817,7 +8813,6 @@
 147.45.72.29,8443,SE,Aeza International
 94.131.98.132,2053,SE,Stark Industries Solutions LTD
 94.131.98.132,8443,SE,Stark Industries Solutions LTD
-45.77.171.102,3128,SG,Vultr
 47.74.254.191,8900,SG,Alibaba
 129.150.58.86,57621,SG,Oracle Cloud
 146.235.18.248,45137,SG,Oracle Cloud
@@ -8836,9 +8831,6 @@
 129.150.49.58,18650,SG,Oracle Cloud
 161.117.249.114,2025,SG,Alibaba Cloud
 47.236.25.107,27903,SG,Alibaba
-139.162.33.248,587,SG,Akamai Connected Cloud
-146.235.16.65,15174,SG,Oracle Cloud
-194.127.193.124,24467,SG,Leaseweb Asia
 129.150.36.188,53435,SG,Oracle Cloud
 51.79.254.182,443,SG,OVH Hosting
 8.219.237.57,31523,SG,Alibaba
