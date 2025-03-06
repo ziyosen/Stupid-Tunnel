@@ -1,3 +1,11 @@
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+172.232.239.134,443,ID,Akamai Connected Cloud
+172.232.239.151,587,ID,Akamai Connected Cloud
+172.235.251.223,443,ID,Akamai Connected Cloud
+203.194.112.119,8443,ID,CV+Rumahweb+Indonesia
+35.219.15.90,443,ID,Google Cloud
+8.215.19.67,587,ID,Alibaba
+8.215.196.18,587,ID,Alibaba
 172.235.251.7,587,ID,Akamai Connected Cloud
 172.235.251.223,587,ID,Akamai Connected Cloud
 172.232.237.112,2053,ID,Akamai Connected Cloud
