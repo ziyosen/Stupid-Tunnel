@@ -1,3 +1,27 @@
+103.14.92.88,443,SG,Akari Networks
+103.180.161.123,587,SG,Zillion-network
+103.195.191.55,443,SG,Dromatics Systems Pte
+103.3.60.117,587,SG,Akamai Connected Cloud
+103.3.60.156,587,SG,Akamai Connected Cloud
+103.3.60.208,587,SG,Akamai Connected Cloud
+103.3.60.21,587,SG,Akamai Connected Cloud
+103.3.60.34,587,SG,Akamai Connected Cloud
+103.3.60.43,587,SG,Akamai Connected Cloud
+124.156.202.172,443,SG,Tencent cloud computing
+129.150.35.29,587,SG,Oracle Cloud
+129.150.53.170,587,SG,Oracle Cloud
+129.226.150.167,443,SG,Tencent cloud computing
+138.2.107.107,443,SG,Oracle Cloud
+138.2.64.229,443,SG,Oracle Cloud
+138.2.67.108,587,SG,Oracle Cloud
+138.2.81.71,443,SG,Oracle Cloud
+45.8.211.115,443,US,Microsoft Azure
+194.53.53.87,443,US,Microsoft Azure
+167.99.64.81,443,SG,Digital Ocean
+146.190.107.103,443,SG,Digital Ocean
+178.128.80.43,443,SG,Digital Ocean
+152.42.242.148,443,SG,Digital Ocean
+139.59.104.29,443,SG,Digital Ocean
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.239.134,443,ID,Akamai Connected Cloud
 172.232.239.151,587,ID,Akamai Connected Cloud
