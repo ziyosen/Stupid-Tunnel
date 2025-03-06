@@ -1,19 +1,9 @@
 103.14.92.88,443,SG,Akari Networks
-103.180.161.123,587,SG,Zillion-network
 103.195.191.55,443,SG,Dromatics Systems Pte
-103.3.60.117,587,SG,Akamai Connected Cloud
-103.3.60.156,587,SG,Akamai Connected Cloud
-103.3.60.208,587,SG,Akamai Connected Cloud
-103.3.60.21,587,SG,Akamai Connected Cloud
-103.3.60.34,587,SG,Akamai Connected Cloud
-103.3.60.43,587,SG,Akamai Connected Cloud
 124.156.202.172,443,SG,Tencent cloud computing
-129.150.35.29,587,SG,Oracle Cloud
-129.150.53.170,587,SG,Oracle Cloud
 129.226.150.167,443,SG,Tencent cloud computing
 138.2.107.107,443,SG,Oracle Cloud
 138.2.64.229,443,SG,Oracle Cloud
-138.2.67.108,587,SG,Oracle Cloud
 138.2.81.71,443,SG,Oracle Cloud
 45.8.211.115,443,US,Microsoft Azure
 194.53.53.87,443,US,Microsoft Azure
