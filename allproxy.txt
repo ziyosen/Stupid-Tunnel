@@ -1,3 +1,9 @@
+91.192.81.3,2053,SG,Melbikomas UAB
+50.114.55.109,2087,SG,Akile
+111.119.235.98,8443,SG,Syscon Infoway Pvt. Ltd.
+166.108.206.142,8443,SG,Huawei Cloud
+92.112.21.38,443,SG,Cylix Pte.
+54.169.65.225,443,SG,Amazon.com
 103.14.92.88,443,SG,Akari Networks
 103.195.191.55,443,SG,Dromatics Systems Pte
 124.156.202.172,443,SG,Tencent cloud computing
@@ -5,8 +11,6 @@
 138.2.107.107,443,SG,Oracle Cloud
 138.2.64.229,443,SG,Oracle Cloud
 138.2.81.71,443,SG,Oracle Cloud
-45.8.211.115,443,US,Microsoft Azure
-194.53.53.87,443,US,Microsoft Azure
 167.99.64.81,443,SG,Digital Ocean
 146.190.107.103,443,SG,Digital Ocean
 178.128.80.43,443,SG,Digital Ocean
